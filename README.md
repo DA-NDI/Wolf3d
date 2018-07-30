@@ -4,7 +4,7 @@ Educational project at 42 school, UnitFactory, Kyiv. C, graphical library SDL. W
 To compile and run programm in terminal:
 ```bash
 make
-./wolf3d maps/
+./wolf3d maps/<map_name>
 ```
 To run, enter valid arguments, one of the maps from ./maps/
 
